@@ -1,0 +1,11 @@
+Copy the data and raw folders over your Dwarf Fortress installation,
+overwriting any contents. If you have a saved game you need to copy the raw
+folder inside of data/save/<yoursave>, overwriting the contents again. If you
+want the racial graphics disabled—perhaps you're using one of the “dwarf
+letters” variants—then open up your data/init/init file and replace
+[GRAPHICS:YES] with [GRAPHICS:NO].
+
+This set will also work fine with almost any mod, provided it is intended for
+“ASCII” graphics.
+
+Don't try to install on top of a different graphics set.

@@ -1,0 +1,2 @@
+Turn off graphics in data/init/init.txt if you want to use a dwarf letter
+tileset!
