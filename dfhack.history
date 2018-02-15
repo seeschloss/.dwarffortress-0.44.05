@@ -1,3 +1,28 @@
+quicksave
+die
+tiletypes
+ls
+liquids
+liquid
+dfliquid
+dfliquids
+dfliquis
+help liquids
+ls
+die
+tiletypes
+help tiletypes
+digcircle chan 1 unset
+digcircle chan 1
+digcircle
+help digcircle
+help digv
+vdig
+help vdig
+digl
+ls
+quicksave
+die
 fastdwarf 0 0
 fastdwarf 1 0
 die
