@@ -1,3 +1,7 @@
+die
+quicksave
+fastdwarf 1 1
+fastdwarf 1 0
 quicksave
 exterminate DEMON_15
 exterminate 
@@ -94,6 +98,3 @@ exterminate DEMON_4
 exterminate DEMON_27
 exterminate
 exterminate help
-help exterminate
-ls
-help
