@@ -1,3 +1,17 @@
+quicksave
+fastdwarf 1 1
+tweak fast-heat
+tweak stable-temp
+fastdwarf 1 0
+fastdwarf 1 1
+fastdwarf 1 0
+fastdwarf 1 1
+liquids
+liquid
+fastdwarf 1 0
+fastdwarf 1 1
+quicksave
+fastdwarf 1 0
 die
 quicksave
 fastdwarf 1 1
@@ -84,17 +98,3 @@ exterminate DEMON
 exterminate DEMON_27 DEMON_4
 exterminate
 die
-fastdwarf 1 0
-exterminate
-exterminate DEMON_6
-exterminate DEMON_3
-exterminate DEMON_28
-exterminate DEMON_23
-exterminate DEMON_22
-exterminate DEMON_2
-exterminate DEMON_18
-exterminate DEMON
-exterminate DEMON_4
-exterminate DEMON_27
-exterminate
-exterminate help
